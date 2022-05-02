@@ -3,7 +3,7 @@
 Task is to automate the deployment and provisioning of resources that host the app provided. 
 It should be hosted in a highly available and scalable web application hosted in Azure.
 
-Link to the site that has been deployed [here](https://accuweatherapp.azurewebsites.net/)
+Link to the site that has been deployed [here](https://devopsinterview.azurewebsites.net/)
 
 For source code please refer [here](https://github.com/singuvenkatesh/devops-interview)
 
