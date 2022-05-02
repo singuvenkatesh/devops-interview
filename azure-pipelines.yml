@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'devopsinterview'
 
 variables:
   solution: '**/*.sln'
