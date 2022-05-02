@@ -47,7 +47,6 @@ For source code please refer [here](https://github.com/singuvenkatesh/devops-int
         
      ![Alt text](screenshots/app_screenshot.png?raw=true "Optional Title")
      
-     ![Alt text](screenshots/app_screenshot_2.png?raw=true "Optional Title")
      
      
   ### Advantages of this soultion is easy to scale and maintain. This soultion is always highly avaiable.
